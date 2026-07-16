@@ -1,5 +1,8 @@
 # Awesome Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/gztchan/awesome-design.svg?branch=master)](https://travis-ci.org/gztchan/awesome-design)
 
+> **Created by Antono**
+
+
 > Awesome Design focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
 the repo keeps being updated continuously from people around the world who provide amazing resources.
 Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
